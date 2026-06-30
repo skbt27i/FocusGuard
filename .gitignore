@@ -1,0 +1,16 @@
+*.iml
+.gradle
+.idea
+build/
+local.properties
+
+# Signing
+*.jks
+*.keystore
+
+# Google Services (if using Firebase, etc.)
+google-services.json
+
+# OS
+.DS_Store
+Thumbs.db
