@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.focusguard.app-mergeDebugResources-50:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\skbt2\\.gradle\\caches\\transforms-4\\390a81c4352a36c2dc429dcc7e6d86e3\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
